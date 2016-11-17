@@ -1,0 +1,108 @@
+body{
+font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+
+}
+
+/*Personal-summary and details section*/
+#Personal-summary { 
+    background-color: green;
+    }
+
+#Personal-Details { 
+    background-color: darkred ;
+    height:200px;
+    }
+
+    #firstnav{
+        float:left;
+        width: 500px;
+        height:200px;
+        list-style: none;
+
+    }
+
+     #details{
+       position:relative;
+        list-style: none;
+    }
+     #secondnav{
+        float:right;
+        width: 500px;
+        height:200px;
+        list-style: none;
+    }
+
+
+   #online-Presence > li >  a {
+   text-decoration: none !important;
+   color: black;
+    }
+
+     #online-Presence > li{
+    position:right;
+    list-style: none;
+    
+    }
+/*end of Personal-summary and details section*/
+
+/*Education-Eemploymentsection*/
+#Education-Eemployment { 
+    background-color: #004aff;
+    list-style: none;
+    float:left;
+    } 
+
+  #Jobs > ul >li{
+    
+    list-style: none;
+    
+    }
+
+    #academic-Insititution > ul > li{
+    list-style: none;
+
+    }
+
+/*Education-Eemploymentsection*/
+
+/*skills / awardsand achievement hobbies-interest section*/
+
+    #skills { 
+    background-color: #fb504b ;
+   
+} 
+
+#Awards-achievement { 
+    background-color: #fff700 ;
+      
+    } 
+
+#hobbies-interest { 
+    background-color: #ff9999 ;
+    
+    } 
+/*End of skills / awardsand achievement hobbies-interest section*/
+
+
+/*
+
+  
+  
+
+
+#Education { 
+    background-color: #873600 ;
+    float:right;
+    }
+    #academic-Insititution dd{
+        float:right;
+list-style: none;
+position:relative;
+
+    }
+
+
+
+
+
+*/
